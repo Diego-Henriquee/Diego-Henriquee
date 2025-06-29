@@ -25,6 +25,6 @@
   <a href="https://instagram.com/diegohenrique1103" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:diegohenrique.g12@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=redmailto:SEUGMAIL"</a>
 
-![Snake animation](https://github.com/Diego-Henriquee/Diego-Henriquee/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+![Snake animation](https://github.com/Diego-Henriquee/Diego-Henriquee/blob/output/github-contribution-grid-snake.svg)
